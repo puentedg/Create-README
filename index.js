@@ -6,9 +6,9 @@ const fs = require('fs');
 
    ## Description
    
-   ${motivation}
-   ${solution}
-   ${lessons}
+  - ${motivation}
+  - ${solution}
+  - ${lessons}
  
    
    ## Table of Contents 
@@ -92,9 +92,9 @@ inquirer
   .then((data) => {
     const readmeContent = generateREADME(data);
 
-    // const filename = `${data.title.toLowerCase().split(' ').join('')}.md`;
+    const filename = `${data.title.toLowerCase().split(' ').join('')}.md`;
 
-    fs.writeFile('README.md', readmeContent, (err) =>
+    fs.writeFile(filename, readmeContent, (err) =>
       err ? console.log(err) : console.log('Your README is ready'));
   });
   
