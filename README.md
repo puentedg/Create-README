@@ -35,6 +35,10 @@ When you run `node index.js`, the application uses the `inquirer` package to pro
 
 <img width="1019" alt="Screen Shot 2022-10-13 at 8 11 25 PM" src="https://user-images.githubusercontent.com/112722601/195734173-2e2ee30b-0691-4c16-b265-99dfa62a3534.png">
 
+*Link to the video: 
+
+https://drive.google.com/file/d/19qjk7LAmHywEGZ8d-k2eMcB1T60jC1qN/view
+
 ## Questions
 
 In case you have any additional questions, please contact me:
