@@ -9,7 +9,9 @@
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
+* [Questions](#questions)
 * [License](#license)
+
 
 ## Installation
 
@@ -28,9 +30,16 @@ After answering all the prompts, your README file will be named 'yourproject.md'
 
 ## Usage 
 
-<iframe src="https://drive.google.com/file/d/1icEMPcgcan4I6mDSRPwuKLQL-UhNJ4y1/preview" width="640" height="480"></iframe>
-
 When you run `node index.js`, the application uses the `inquirer` package to prompt you in the command line with a series of questions about your project.
+
+
+<img width="1019" alt="Screen Shot 2022-10-13 at 8 11 25 PM" src="https://user-images.githubusercontent.com/112722601/195734173-2e2ee30b-0691-4c16-b265-99dfa62a3534.png">
+
+## Questions
+
+In case you have any additional questions, please contact me:
+* <a href="https://github.com/puentedg">GitHub</a>
+* Email: puentedg@gmail.com
 
 ## License 
 No License
